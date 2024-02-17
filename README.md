@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fizazahira
 - 👀 I’m interested in Novels
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Github
+- 💞️ I’m looking to collaborate with Google
 - 📫 Reach me through my email 
 - 😄 good to see you all
 - ⚡ Fun fact: I made github account for fun
