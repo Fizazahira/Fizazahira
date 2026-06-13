@@ -75,6 +75,17 @@
 <tr>
 <td width="50%">
 
+**🔹 [Karachi Traffic Route Predictor](https://github.com/Fizazahira/karachi-traffic-predictor)**
+
+An AI-powered app that predicts traffic congestion and travel time across major Karachi routes, recommending the fastest route based on time, day, weather, and events.
+
+`Python` `Scikit-learn` `Streamlit` `Machine Learning`
+
+[🔗 Live Demo](https://karachi-traffic-predictor-sznlrv2zclz7xy4m3lcrpr.streamlit.app/)
+
+</td>
+<td width="50%">
+
 **🔹 [Customer Churn Prediction App](https://github.com/Fizazahira/churn-prediction-app)**
 
 A classification model that predicts customer churn based on usage patterns, demographics, and support history — built with EDA, model training, and an interactive demo.
@@ -82,19 +93,8 @@ A classification model that predicts customer churn based on usage patterns, dem
 `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
 </td>
-<td width="50%">
-
-**🔹 [Calculator](https://github.com/Fizazahira/Calculator)**
-
-A simple, clean calculator app built as a foundational project to practice UI design and logic implementation.
-
-`HTML` `CSS`
-
-</td>
 </tr>
 </table>
-
----
 
 ### 🐍 Contribution Snake
 
